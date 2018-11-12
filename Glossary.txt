@@ -1,0 +1,11 @@
+## Glossary
+
+Algorithm - *step by step method of solving a problem.*
+ 
+Mark Down
+ 
+Variable
+
+Function
+
+Execution
